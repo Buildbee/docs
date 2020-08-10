@@ -8,9 +8,9 @@ Here are some cool tutorials to get you started with your @boardname@!
 [{
   "name": "Heart Shape",
   "description": "Get started learning to build shapes by following this project. ",
-  "url":"/projects/heart-shape",
+  "url":"/tutorials/heart-shape",
   "cardType": "tutorial",
-  "imageUrl": "/static/projects/heart-shape/project-image.png"
+  "imageUrl": "/static/tutorials/heart-shape/project-image.png"
 }]
 ```
 

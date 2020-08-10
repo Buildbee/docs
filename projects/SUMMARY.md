@@ -1,7 +1,7 @@
 # Projects
 
 * [Tutorials](/tutorials)
-  * [Heart Shape](/projects/heart-shape)
+  * [Heart Shape](/tutorials/heart-shape)
 * [Examples](/examples)
   * [Subtract Shapes](/examples/subtractshapes)
   * [Donut Rings](/examples/donutrings)
