@@ -4,7 +4,7 @@
 
 Learn to add and move shapes around by making a heart.
 
-![Make a heart shape](/static/tutorials/heart-shape/project-image.png)
+![Make a heart shape](/docs/static/tutorials/heart-shape/project-image.png)
 
 ## Step 1 @fullscreen
 
